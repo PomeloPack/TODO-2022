@@ -1,4 +1,4 @@
-# Tunění soft skillu v IT a očista těla k tomu roku 2022
+# Tunění soft skillu v IT a očista těla k tomu rok 2022
 input
 
 - 17.01.2022 - Posilování celkem: 30 minut
