@@ -1,5 +1,6 @@
-# Tunění soft skillu v IT a očista těla k tomu rok 2022
-input
+# Tunění soft skillu v IT a očista těla k tomu
+
+# LEDEN 2022
 
 - 17.01.2022 - Posilování celkem: 30 minut
 - 19.01.2022 - syntaxe Character Indicator celkem: 60 minut
