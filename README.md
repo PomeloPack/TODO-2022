@@ -12,3 +12,4 @@
 - 25.01.2022 - Linux ( výběr OS, čtení infa ), stažení ELEMENTARY OS, Etcher a úprava syntaxe na Indicatoru celkem: 80 minut
 - 26.01.2022 - Instalace ElementaryOS, spuštění instalace, nastavení rozhraní první "check-in" a základy Linuxu, istalace programů celkem: 120 minut
 - 28.01.2022 - Bar Chart Race celkem: 240 minut
+- 30.01.2022 - Oprava Chartu + upload scriptu pywhatkit celkem: 60 minut
