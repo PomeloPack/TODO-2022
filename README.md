@@ -25,5 +25,7 @@
 
 # ÚNOR 2022
 
+- 01.02.2022 - Upráva readm.me na GitHubu celkem: 90 minut
+
 
 
