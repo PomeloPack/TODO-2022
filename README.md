@@ -15,3 +15,9 @@
 - 30.01.2022 - Oprava Chartu + upload scriptu pywhatkit celkem: 60 minut
 - 30.01.2022 - Angličtina, poslech, překlad celkem: 150 minut
 - 31.01.2022 - Četba ,,Začínáme programovat v jazyku Python" od Rudolfa Pecinovksého celkem: 30 minut
+
+# LEDEN celkem:
+
+>>> leden = { "Python praxe": 770, "Python teorie - četba": 30, "Linux": 120, "Angličtina procvičování": 150 }
+>>> for i in leden.values():
+>>> print(i)
