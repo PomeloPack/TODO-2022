@@ -18,6 +18,12 @@
 
 # LEDEN celkem:
 
->>> Leden = { "Python praxe": 770, "Python teorie - četba": 30, "Linux": 120, "Angličtina procvičování": 150 }
->>> celkem_minut = 1070
->>> hodin = 44,5
+- Python praxe: 770 minut, Python teorie/četba: 30 minut, Linux: 120 minut, Angličtina procvičování: 150 minut 
+- celkem minut: 1070 -> 44.5 hodin
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# ÚNOR 2022
+
+
+
