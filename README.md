@@ -19,5 +19,6 @@
 # LEDEN celkem:
 
 >>> leden = { "Python praxe": 770, "Python teorie - četba": 30, "Linux": 120, "Angličtina procvičování": 150 }
->>> for i in leden.values():
->>> print(i)
+>>> celkem_minut = 1070
+>>> prevod_na_hodiny = celkem_minut / 24
+>>> hodiny = 45,5
