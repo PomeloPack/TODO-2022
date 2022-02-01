@@ -25,7 +25,8 @@
 
 # ÚNOR 2022
 
-- 01.02.2022 - Upráva readm.me na GitHubu celkem: 90 minut
+- 01.02.2022 - Upráva readm.me na GitHubu celkem: 120 minut
+- 01.02.2022 - Četba ,,Začínáme programovat v jazyku Python" od Rudolfa Pecinovksého celkem: 15 minut
 
 
 
