@@ -14,7 +14,7 @@
 - 28.01.2022 - Bar Chart Race celkem: 240 minut
 - 30.01.2022 - Oprava Chartu + upload scriptu pywhatkit celkem: 60 minut
 - 30.01.2022 - Angličtina, poslech, překlad celkem: 150 minut
-- 31.01.2022 - Četba ,,Začínáme programovat v jazyku Python" od Rudolfa Pecinovksého celkem: 30 minut
+- 31.01.2022 - Četba "Začínáme programovat v jazyku Python" od Rudolfa Pecinovksého celkem: 30 minut
 
 # LEDEN celkem:
 
@@ -25,8 +25,9 @@
 
 # ÚNOR 2022
 
-- 01.02.2022 - Upráva readm.me na GitHubu celkem: 120 minut
-- 01.02.2022 - Četba ,,Začínáme programovat v jazyku Python" od Rudolfa Pecinovksého celkem: 15 minut
+- 01.02.2022 - Upráva readme na GitHubu celkem: 120 minut
+- 01.02.2022 - Četba "Začínáme programovat v jazyku Python" od Rudolfa Pecinovksého celkem: 15 minut
+- 03.03.2022 - Dokončení readme celkem: 40 minut 
 
 
 
