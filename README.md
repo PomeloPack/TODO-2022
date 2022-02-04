@@ -2,7 +2,7 @@
 
 # LEDEN 2022
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 - 19.01.2022 - syntaxe Character Indicator celkem: 60 minut
 - 21.01.2022 - práce na tabulkách a realizace syntaxe Character Indicator celkem: 60 minut
 - 22.01.2022 - Youtube lekce od Conaxe ( listy, užitečné funkce, užitečné funkce, metody řetězců ) + práce na Character Indicator
@@ -21,7 +21,7 @@
 - Python praxe: 770 minut, Python teorie/četba: 30 minut, Linux: 120 minut, Angličtina procvičování: 150 minut 
 - celkem minut: 1070 -> 44.5 hodin
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # ÚNOR 2022
 
