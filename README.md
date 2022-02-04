@@ -27,8 +27,9 @@
 
 - 01.02.2022 - Upráva readme na GitHubu celkem: 120 minut
 - 01.02.2022 - Četba "Začínáme programovat v jazyku Python" od Rudolfa Pecinovksého celkem: 15 minut
-- 03.03.2022 - Dokončení readme celkem: 40 minut
-- 03.03.2022 - Youtube lekce od Conaxe ( metody seznamů a slovníků ) + zkouška def funkce na Character Indicator celkem: 40 minut
+- 03.02.2022 - Dokončení readme celkem: 40 minut
+- 03.02.2022 - Youtube lekce od Conaxe ( metody seznamů a slovníků ) + zkouška def funkce na Character Indicator celkem: 40 minut
+- 04.02.2022 - Linux - celkem: 30 min
 
 
 
