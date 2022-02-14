@@ -31,6 +31,7 @@
 - 03.02.2022 - Youtube lekce od Conaxe ( metody seznamů a slovníků ) + zkouška def funkce na Character Indicator celkem: 40 minut
 - 04.02.2022 - Linux - celkem: 30 min
 - 07.04.2022 - Duo cvičení na Pynative ( for loops ) s Jakem celkem: 80 minut
+- 14.02.2022 - Characters Indicator + Linux celkem: 60 minut
 
 
 
