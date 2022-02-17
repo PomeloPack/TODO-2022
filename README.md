@@ -33,6 +33,7 @@
 - 07.04.2022 - Duo cvičení na Pynative ( for loops ) s Jakem celkem: 80 minut
 - 14.02.2022 - Characters Indicator + Linux celkem: 60 minut
 - 15.02.2022 - Characters Indicator + Linux celkem: 80 minut
+- 17.02.2022 -  Četba "Začínáme programovat v jazyku Python" od Rudolfa Pecinovksého celkem: 30 minut, CONAX YT def funkce teorie celkem: 40 min
 
 
 
