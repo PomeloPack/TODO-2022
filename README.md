@@ -35,6 +35,7 @@
 - 15.02.2022 - Characters Indicator + Linux celkem: 80 minut
 - 17.02.2022 -  Četba "Začínáme programovat v jazyku Python" od Rudolfa Pecinovksého celkem: 30 minut, CONAX YT def funkce teorie celkem: 105 minut
 - 20.02.2022 - Phonenumbers ( lehký script ) + upgrade pip + teorie Python celkem: 50 minut
+- 22.02.2022 - Character Indicator celkem: 80 minut
 
 
 
