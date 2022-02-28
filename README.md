@@ -44,6 +44,10 @@
 - Python cvičení: 545 minut, Python teorie/četba: 45 minut, Linux: 30, Github: 160 minut
 - celkem minut: 780 -> 13 hodin
 
+---
+
+# BŘEZEN 2022
+
 
 
 
