@@ -18,8 +18,8 @@
 
 # LEDEN celkem:
 
-- Python praxe: 770 minut, Python teorie/četba: 30 minut, Linux: 120 minut, Angličtina procvičování: 150 minut 
-- celkem minut: 1070 -> 44.5 hodin
+- Python cvičení: 770 minut, Python teorie/četba: 30 minut, Linux: 120 minut, Angličtina procvičování: 150 minut 
+- celkem minut: 1070 -> 18 hodin
 
 ---
 
@@ -36,6 +36,12 @@
 - 17.02.2022 -  Četba "Začínáme programovat v jazyku Python" od Rudolfa Pecinovksého celkem: 30 minut, CONAX YT def funkce teorie celkem: 105 minut
 - 20.02.2022 - Phonenumbers ( lehký script ) + upgrade pip + teorie Python celkem: 50 minut
 - 22.02.2022 - Character Indicator celkem: 80 minut
+- 28.02.2022 - IT network opakování celkem: 50 minut
+
+# Únor celkem:
+
+- Python cvičení: 545 minut, Python teorie/četba: 45 minut, Linux: 30, Github: 160 minut
+- celkem minut: 780 -> 13
 
 
 
