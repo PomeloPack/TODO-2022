@@ -1,8 +1,7 @@
  # Tunění soft skillu v IT
 
-<div align="center" font-size="12">
- LEDEN 2022
-</div>
+# LEDEN 2022
+
 
 
 - 19.01.2022 - syntaxe Character Indicator celkem: 60 minut
@@ -43,7 +42,7 @@
 # Únor celkem:
 
 - Python cvičení: 545 minut, Python teorie/četba: 45 minut, Linux: 30, Github: 160 minut
-- celkem minut: 780 -> 13
+- celkem minut: 780 -> 13 hodin
 
 
 
