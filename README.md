@@ -1,6 +1,6 @@
  # Tunění soft skillu v IT
 
-<div id="header" align="center">
+<div align="center">
  LEDEN 2022
 </div>
 
