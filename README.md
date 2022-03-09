@@ -48,9 +48,10 @@
 
 # BŘEZEN 2022
 
--01.03.2022 - Character Indicator celkem: 90 minut
--07.03.2022 - Try Hack Me celkem: 20 minut
--08.03.2022 - Tkinter Test Tutorial GUI celkem: 100 minut
+- 01.03.2022 - Character Indicator celkem: 90 minut
+- 07.03.2022 - Try Hack Me celkem: 20 minut
+- 08.03.2022 - Tkinter Test Tutorial GUI celkem: 100 minut
+- 08.03.2022 - Try Hack Me celkem: 30 minut
 
 
 
