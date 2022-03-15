@@ -53,7 +53,7 @@
 - 08.03.2022 - Tkinter Test Tutorial GUI celkem: 100 minut
 - 08.03.2022 - Try Hack Me celkem: 30 minut
 - 10.03.2022 - Naučse Python celkem: 90 minut
-- 15.03.2022 - GUI Tkinter - Digitální hodiny celkem: 100 minut
+- 15.03.2022 - GUI Tkinter - Digitální hodiny celkem: 100 minut, Conax YT - Tuples celkem: 35 minut
 
 
 
