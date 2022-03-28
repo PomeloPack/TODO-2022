@@ -57,6 +57,7 @@
 - 16.03.2022 - Naučse Python celkem: 130 minut, Try Hack Me What is Network + Angličtina celkem: 45 minut
 - 18.03.2022 - Pandas, GUI, Naucse Python celkem: 150 minut
 - 22.03.2022 - Codemy Tkinter Walkthrough celkem: 60 minut
+- 28.03.2022 - Try Hack Me + Angličtina celkem: 30 minut
 
 
 
