@@ -59,6 +59,7 @@
 - 22.03.2022 - Codemy Tkinter Walkthrough celkem: 60 minut
 - 28.03.2022 - Try Hack Me + Angličtina celkem: 30 minut
 - 29.03.2022 - Try Hack Me + Angličtina celkem: 10 minut, TKinter + Pycoingecko celkem: 100 minut
+- 30.03.2022 - Try Hack Me + Angličtina celkem: 10 minut, Tkinter + Pycoingecko celkem: 30 minut
 
 
 
