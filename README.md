@@ -19,8 +19,22 @@
 
 # LEDEN celkem:
 
-- Python cvičení: 770 minut, Python teorie/četba: 30 minut, Linux: 120 minut, Angličtina procvičování: 150 minut 
-- celkem minut: 1070 -> 18 hodin
+>>>work_jan = {"Python cvičení": "770 minut", "Python teorie/četba": "30 minut", "Linux": "120 minut", "Angličina četba, text, překlad": "150 minut"}
+>>>for i in work_jan.values():
+>>>    print(i)
+ 
+OUTPUT1
+770 minut
+30 minut
+120 minut
+150 minut
+
+>>>mins_total = 1070
+>>>convert_to_hrs = 1070 / 60
+>>>print("convert_to_hrs", "hodin"
+
+OUTPUT2
+17.8 hodin
 
 ---
 
@@ -41,8 +55,22 @@
 
 # Únor celkem:
 
-- Python cvičení: 545 minut, Python teorie/četba: 45 minut, Linux: 30, Github: 160 minut
-- celkem minut: 780 -> 13 hodin
+>>>work_feb = {"Python cvičení": "545 minut", "Python teorie/četba": "45 minut", "Linux": "30 minut", "GitHub": "160 minut"}
+>>>for i in work_feb.valuse():
+>>>	print(i)
+
+OUTPUT1
+545 minut
+45 minut
+30 minut
+160 minut
+
+>>>total_minutes = 780
+>>>convert_to_hrs = 780 / 60
+>>>print("convert_to_hrs", "hodin")
+
+OUTPUT2
+13.0 hodin
 
 ---
 
@@ -60,6 +88,25 @@
 - 28.03.2022 - Try Hack Me + Angličtina celkem: 30 minut
 - 29.03.2022 - Try Hack Me + Angličtina celkem: 10 minut, TKinter + Pycoingecko celkem: 100 minut
 - 30.03.2022 - Try Hack Me + Angličtina celkem: 10 minut, Tkinter + Pycoingecko celkem: 30 minut
+
+# Březen celkem:
+
+>>>work_mar = {"Python cvičení": "630 minut", "Python teorie/četba": "280 minut", "Try Hack Me": "145 minut", "Angličina četba, text, překlad": "95 minut"}
+>>>for i in work_feb.valuse():
+>>>	print(i)
+
+OUTPUT1
+630 minut
+280 minut
+145 minut
+95 minut
+
+>>>total_minutes = 1150
+>>>convert_to_hrs = 1150 / 60
+>>>print("convert_to_hrs", "hodin")
+
+OUTPUT2
+19.1 hodin
 
 
 
