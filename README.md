@@ -27,14 +27,15 @@ INPUT1
  
  ![Bez názvu1](https://user-images.githubusercontent.com/94791875/161399884-9b3671b0-87a3-43f9-a863-96814202f127.jpg)
 
+INPUT2
 
-
->>>mins_total = 1070
->>>convert_to_hrs = 1070 / 60
->>>print("convert_to_hrs", "hodin"
+![Bez názvu](https://user-images.githubusercontent.com/94791875/161401670-8a03f2dc-875a-4768-afa3-c79a7b19e10d.jpg)
 
 OUTPUT2
-17.8 hodin
+
+![Bez názvu1](https://user-images.githubusercontent.com/94791875/161401677-ab59a939-baf1-48b5-9715-98788c8bc3a4.jpg)
+
+
 
 ---
 
