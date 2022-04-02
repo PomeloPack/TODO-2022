@@ -19,15 +19,15 @@
 
 # LEDEN celkem:
 
->>>work_jan = {"Python cvičení": "770 minut", "Python teorie/četba": "30 minut", "Linux": "120 minut", "Angličina četba, text, překlad": "150 minut"}
->>>for i in work_jan.values():
->>>    print(i)
+INPUT1
+
+![Bez názvu](https://user-images.githubusercontent.com/94791875/161399841-3986b870-6f28-4c40-9fd5-9fc7f8bfe1d6.jpg)
+
+ OUTPUT1
  
-OUTPUT1
-770 minut
-30 minut
-120 minut
-150 minut
+ ![Bez názvu1](https://user-images.githubusercontent.com/94791875/161399884-9b3671b0-87a3-43f9-a863-96814202f127.jpg)
+
+
 
 >>>mins_total = 1070
 >>>convert_to_hrs = 1070 / 60
