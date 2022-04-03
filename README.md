@@ -19,21 +19,32 @@
 
 # LEDEN celkem:
 
+```
 INPUT1
 
-![jan1](https://user-images.githubusercontent.com/94791875/161429266-a8f98c9d-c2f9-451b-af6a-8a951fcf4774.jpg)
+January_total = {"Python cvičení": "670 minut", "Python teorie/četba": "190 minut", "Linux": "200 minut", "Angličtina poslech, překlad": "150 minut"}
+for i in January_total.values():
+    print(i)
 
- OUTPUT1
- 
-![jan2](https://user-images.githubusercontent.com/94791875/161429270-c2ee2690-a2d0-442d-a4cc-6a45296842e3.jpg)
+OUTPUT1
+
+670 minut
+190 minut
+200 minut
+150 minut
+
+
 
 INPUT2
 
-![jan3](https://user-images.githubusercontent.com/94791875/161429666-63848cf6-da87-4a74-ba16-eb78291aee24.jpg)
+total_mins = 1210
+convert_to_hrs = 1210 / 60
+print(convert_to_hrs, "hodin")
 
 OUTPUT2
 
-![jan4](https://user-images.githubusercontent.com/94791875/161429791-97061629-6b56-4fc4-b376-7da16cbb3741.jpg)
+20.1 hodin
+```
 
 ---
 
@@ -54,9 +65,12 @@ OUTPUT2
 
 # Únor celkem:
 
->>>work_feb = {"Python cvičení": "545 minut", "Python teorie/četba": "45 minut", "Linux": "30 minut", "GitHub": "160 minut"}
->>>for i in work_feb.valuse():
->>>	print(i)
+```
+INPUT1
+
+February_total = {"Python cvičení": "545 minut", "Python teorie/četba": "45 minut", "Linux": "30 minut", "GitHub": "160 minut"}
+for i in February_total.valuse():
+	print(i)
 
 OUTPUT1
 545 minut
@@ -64,12 +78,16 @@ OUTPUT1
 30 minut
 160 minut
 
->>>total_minutes = 780
->>>convert_to_hrs = 780 / 60
->>>print("convert_to_hrs", "hodin")
+INPUT2
+
+total_minutes = 780
+convert_to_hrs = 780 / 60
+print("convert_to_hrs", "hodin")
 
 OUTPUT2
 13.0 hodin
+
+```
 
 ---
 
@@ -90,9 +108,12 @@ OUTPUT2
 
 # Březen celkem:
 
->>>work_mar = {"Python cvičení": "630 minut", "Python teorie/četba": "280 minut", "Try Hack Me": "145 minut", "Angličina četba, text, překlad": "95 minut"}
->>>for i in work_feb.valuse():
->>>	print(i)
+```
+INPUT1
+
+work_mar = {"Python cvičení": "630 minut", "Python teorie/četba": "280 minut", "Try Hack Me": "145 minut", "Angličina četba, text, překlad": "95 minut"}
+for i in work_feb.valuse():
+	print(i)
 
 OUTPUT1
 630 minut
@@ -100,12 +121,18 @@ OUTPUT1
 145 minut
 95 minut
 
->>>total_minutes = 1150
->>>convert_to_hrs = 1150 / 60
->>>print("convert_to_hrs", "hodin")
+INPUT2
+
+total_minutes = 1150
+convert_to_hrs = 1150 / 60
+print("convert_to_hrs", "hodin")
 
 OUTPUT2
+
 19.1 hodin
+```
+
+
 
 
 
