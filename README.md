@@ -21,21 +21,19 @@
 
 INPUT1
 
-![Bez názvu](https://user-images.githubusercontent.com/94791875/161399841-3986b870-6f28-4c40-9fd5-9fc7f8bfe1d6.jpg)
+![jan1](https://user-images.githubusercontent.com/94791875/161429266-a8f98c9d-c2f9-451b-af6a-8a951fcf4774.jpg)
 
  OUTPUT1
  
- ![Bez názvu1](https://user-images.githubusercontent.com/94791875/161399884-9b3671b0-87a3-43f9-a863-96814202f127.jpg)
+![jan2](https://user-images.githubusercontent.com/94791875/161429270-c2ee2690-a2d0-442d-a4cc-6a45296842e3.jpg)
 
 INPUT2
 
-![Bez názvu](https://user-images.githubusercontent.com/94791875/161401670-8a03f2dc-875a-4768-afa3-c79a7b19e10d.jpg)
+![jan3](https://user-images.githubusercontent.com/94791875/161429666-63848cf6-da87-4a74-ba16-eb78291aee24.jpg)
 
 OUTPUT2
 
-![Bez názvu1](https://user-images.githubusercontent.com/94791875/161401677-ab59a939-baf1-48b5-9715-98788c8bc3a4.jpg)
-
-
+![jan4](https://user-images.githubusercontent.com/94791875/161429791-97061629-6b56-4fc4-b376-7da16cbb3741.jpg)
 
 ---
 
