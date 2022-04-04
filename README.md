@@ -135,7 +135,7 @@ OUTPUT2
 
 # DUBEN 2022
 
--04.04.2022 - TensorFlow + Jupyter Notebook úvod teorie + cvičný script celkem: 60 minut
+- 04.04.2022 - TensorFlow + Jupyter Notebook úvod teorie + cvičný script celkem: 60 minut
 
 
 
