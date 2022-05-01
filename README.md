@@ -82,7 +82,7 @@ INPUT2
 
 total_minutes = 780
 convert_to_hrs = 780 / 60
-print("convert_to_hrs", "hodin")
+print(convert_to_hrs, "hodin")
 
 OUTPUT2
 13.0 hodin
@@ -116,6 +116,7 @@ for i in work_feb.valuse():
 	print(i)
 
 OUTPUT1
+
 630 minut
 280 minut
 145 minut
@@ -125,7 +126,7 @@ INPUT2
 
 total_minutes = 1150
 convert_to_hrs = 1150 / 60
-print("convert_to_hrs", "hodin")
+print(convert_to_hrs, "hodin")
 
 OUTPUT2
 
@@ -138,6 +139,33 @@ OUTPUT2
 - 04.04.2022 - TensorFlow + Jupyter Notebook úvod teorie + cvičný script celkem: 60 minut
 - 19.04.2022 - w3schools exercises Python celkem: 60 minut
 - 20.04.2022 - JSON celkem: 70 minut
+
+```
+INPUT1
+
+import json
+
+work_april = {
+    "Python cviceni": "120 minut",
+    "Python teorie": "70 minut"
+}
+
+print(work_april.values())
+
+OUTPUT2
+
+dict_values(['120 minut', '70 minut'])
+
+INPUT1
+
+total_minutes = 190
+convert_to_hrs = 190 / 60
+print(convert_to_hrs, "hodin")
+
+OUTPUT2
+
+3.1666666666666665 hodin
+
 
 
 
