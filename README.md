@@ -167,3 +167,7 @@ OUTPUT2
 3.1666666666666665 hodin
 ```
 PS: V Dubnu jsem měl nějaký blok, snad to rozjedu zase ted v Květnu 😂
+
+# KVĚTEN 2022
+
+
