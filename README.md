@@ -165,10 +165,3 @@ print(convert_to_hrs, "hodin")
 OUTPUT2
 
 3.1666666666666665 hodin
-
-
-
-
-
-
-
