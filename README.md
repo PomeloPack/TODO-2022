@@ -170,4 +170,5 @@ PS: V Dubnu jsem měl nějaký blok, snad to rozjedu zase ted v Květnu 😂
 
 # KVĚTEN 2022
 
+- 02.05.2022 - JSON - read/write/create data file celkem: 60 minut
 
