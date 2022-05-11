@@ -174,4 +174,5 @@ PS: V Dubnu jsem měl nějaký blok, snad to rozjedu zase ted v Květnu 😂
 - 04.05.2022 - JSON - YT teorie celkem: 50 minut
 - 09.05.2022 - GFI Twitter Bot - celkem: 80 minut
 - 10.05.2022 - Twitter Bot Tweepy YT - celkem: 20 minut,  GFI Twitter Bot - celkem: 50 minut
+- 12.05.2022 - Web Scraping celkem: 120 minut
 
