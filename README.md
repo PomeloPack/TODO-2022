@@ -69,7 +69,7 @@ OUTPUT2
 INPUT1
 
 February_total = {"Python cvičení": "545 minut", "Python teorie/četba": "45 minut", "Linux": "30 minut", "GitHub": "160 minut"}
-for i in February_total.valuse():
+for i in February_total.values():
 	print(i)
 
 OUTPUT1
@@ -111,9 +111,15 @@ OUTPUT2
 ```
 INPUT1
 
-work_mar = {"Python cvičení": "630 minut", "Python teorie/četba": "280 minut", "Try Hack Me": "145 minut", "Angličina četba, text, překlad": "95 minut"}
-for i in work_mar.valuse():
-	print(i)
+work_mar = {
+    "Python cvičení": "630 minut",
+    "Python teorie/četba": "280 minut",
+    "Try Hack Me": "145 minut",
+    "Angličina četba, text, překlad": "95 minut"
+}
+
+for i in work_mar.values():
+    print(i)
 
 OUTPUT1
 
@@ -144,8 +150,6 @@ OUTPUT2
 
 ```
 INPUT1
-
-import json
 
 work_april = {
     "Python cviceni": "120 minut",
@@ -184,8 +188,6 @@ PS: V Dubnu jsem měl nějaký blok, snad to rozjedu zase ted v Květnu 😂
 
 ```
 INPUT1
-
-import json
 
 work_may = {
     "Python teorie": "185 minut",
