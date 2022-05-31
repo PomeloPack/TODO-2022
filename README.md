@@ -141,6 +141,7 @@ OUTPUT2
 - 20.04.2022 - JSON celkem: 70 minut
 
 # Duben celkem:
+
 ```
 INPUT1
 
@@ -179,9 +180,8 @@ PS: V Dubnu jsem měl nějaký blok, snad to rozjedu zase ted v Květnu 😂
 - 30.05.2022 - SMTP Mail sender celkem: 15 minut
 - 31.05.2022 - ForLoop.ai API celkem: 60 minut
 
----
-
 # Květen celkem:
+
 ```
 INPUT1
 
