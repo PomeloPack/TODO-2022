@@ -176,4 +176,5 @@ PS: V Dubnu jsem měl nějaký blok, snad to rozjedu zase ted v Květnu 😂
 - 10.05.2022 - Twitter Bot Tweepy YT - celkem: 20 minut,  GFI Twitter Bot - celkem: 50 minut
 - 12.05.2022 - Web Scraping YT tutorial celkem: 60 minut,  Web Scraping Stinger Script celkem: 160 minut
 - 30.05.2022 - SMTP Mail sender celkem: 15 minut
+- 31.05.2022 - ForLoop.ai API celkem: 60 minut
 
