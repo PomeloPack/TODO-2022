@@ -140,6 +140,7 @@ OUTPUT2
 - 19.04.2022 - w3schools exercises Python celkem: 60 minut
 - 20.04.2022 - JSON celkem: 70 minut
 
+# Duben celkem:
 ```
 INPUT1
 
@@ -152,11 +153,11 @@ work_april = {
 
 print(work_april.values())
 
-OUTPUT2
+OUTPUT1
 
 dict_values(['120 minut', '70 minut'])
 
-INPUT1
+INPUT2
 
 total_minutes = 190
 convert_to_hrs = 190 / 60
@@ -178,3 +179,34 @@ PS: V Dubnu jsem měl nějaký blok, snad to rozjedu zase ted v Květnu 😂
 - 30.05.2022 - SMTP Mail sender celkem: 15 minut
 - 31.05.2022 - ForLoop.ai API celkem: 60 minut
 
+---
+
+# Květen celkem:
+```
+INPUT1
+
+import json
+
+work_may = {
+    "Python teorie": "185 minut",
+    "Python cvičení": "370 minut"
+}
+
+OUTPUT1
+
+dict_values(['185 minut', '370 minut'])
+
+INPUT2
+
+total_minutes = 555
+convert_to_hrs = 555 / 60
+print(convert_to_hrs, "hodin")
+
+OUTPUT2
+
+9.25 hodin
+```
+
+---
+
+# Červen
