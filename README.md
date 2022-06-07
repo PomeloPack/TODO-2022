@@ -212,3 +212,5 @@ OUTPUT2
 ---
 
 # Červen
+
+- 07.06.2022 - SMTP Mail sender celkem: 50 minut
