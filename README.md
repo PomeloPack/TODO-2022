@@ -215,4 +215,5 @@ OUTPUT2
 
 - 07.06.2022 - SMTP Mail sender celkem: 110 minut
 - 10.06.2022 - UDEMY 100 Days of Code / Day 1 started - celkem: 85 minut
-- 13.06.2022 - UDEMY 100 Days of Code / Day 1 finished, Day 2 started - celkem: 180 minut
+- 13.06.2022 - UDEMY 100 Days of Code / Day 1 finished, Day 2 started, - celkem: 180 minut
+- 13.06.2022 - Housekeeper project CSV - celkem: 20 minut
