@@ -218,3 +218,4 @@ OUTPUT2
 - 13.06.2022 - UDEMY 100 Days of Code / Day 1 finished, Day 2 started, - celkem: 180 minut
 - 13.06.2022 - Housekeeper project + Excel CSV - celkem: 20 minut
 - 14.06.2022 - Housekeeper project + Excel CSV - celkem: 90 minut
+- 15.06.2022 - UDEMY 100 Days of Code / Day 2 in progress - celkem: 100 minut
