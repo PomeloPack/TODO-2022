@@ -220,4 +220,4 @@ OUTPUT2
 - 14.06.2022 - Housekeeper project + Excel CSV - celkem: 90 minut
 - 15.06.2022 - UDEMY 100 Days of Code / Day 2 in progress - celkem: 100 minut
 - 20.06.2022 - UDEMY 100 Days of Code / Day 2 in progress - celkem: 30 minut
-- 21.06.2022 - Housekeeper project - rozdělení úloh, datové soubory, plán - celkem: 90 minut
+- 21.06.2022 - Housekeeper project - rozdělení úloh, datové soubory, plán - celkem: 110 minut
