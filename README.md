@@ -222,3 +222,26 @@ OUTPUT2
 - 20.06.2022 - UDEMY 100 Days of Code / Day 2 in progress - celkem: 30 minut
 - 21.06.2022 - Housekeeper project - rozdělení úloh, datové soubory, plán - celkem: 120 minut
 - 23.06.2022 - Housekeeper project - CSV - celkem: 30 minut
+
+# Červen celkem:
+
+```
+INPUT 1
+
+work_june = [
+    {
+        "python cvičení": "765 minut"
+    }
+]
+
+total_work_june = 765
+
+convert_to_hrs = total_work_june / 60
+print(convert_to_hrs, "hodin")
+
+OUTPUT 1
+
+12.75 hodin
+```
+
+
