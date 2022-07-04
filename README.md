@@ -248,5 +248,5 @@ OUTPUT 1
 
 # Červenec
 
--04.07.2022 - HKP - CSV update celkem: 31 minut
+- 04.07.2022 - HKP - CSV update celkem: 31 minut
 
