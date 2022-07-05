@@ -249,5 +249,5 @@ OUTPUT 1
 # Červenec
 
 - 04.07.2022 - HKP - CSV update celkem: 31 minut
-- 06.07.2022 - HKP - Řešení databází, úprava CSV a pokec a dalším postupu práce celkem: 100 minut
+- 06.07.2022 - HKP - Řešení databází, úprava CSV a pokec a dalším postupu práce spíše teorie než kódění celkem: 100 minut
 
